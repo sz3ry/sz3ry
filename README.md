@@ -6,7 +6,7 @@ I ship production software end to end — and build the tooling that lets AI age
 Sole engineer behind ~16 production systems since 2023 (TypeScript, Bun, React, PostgreSQL).
 Coding with AI since the GitHub Copilot technical preview (2021).
 
-[LinkedIn](https://www.linkedin.com/in/lukasz-wisniewski-a8514b151/) · lukasz@szery.net.pl · Poland (CET) · open to B2B contracts
+[LinkedIn](https://www.linkedin.com/in/lukasz-wisniewski-sz3ry) · lukasz@szery.net.pl · Poland (CET) · open to B2B contracts
 
 ## What I work on
 
